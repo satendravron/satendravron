@@ -228,7 +228,7 @@ Developed full-stack features for an early-stage product, collaborating directly
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=satendravron&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&count_private=true" width="49%"/>
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
@@ -241,7 +241,7 @@ Developed full-stack features for an early-stage product, collaborating directly
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=satendravron&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 
 </div>
 
@@ -251,7 +251,7 @@ Developed full-stack features for an early-stage product, collaborating directly
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ysatendravron&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF" width="100%"/>
 
 </div>
 
@@ -261,7 +261,7 @@ Developed full-stack features for an early-stage product, collaborating directly
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/satendravron/satendravron/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
