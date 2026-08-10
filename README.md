@@ -215,7 +215,7 @@ Developed full-stack features for an early-stage product, collaborating directly
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1000%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1000%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/YOUR_USERNAME](https://leetcode.com/u/satendravron/))
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/YOUR_USERNAME)
 [![HackerRank](https://img.shields.io/badge/HackerRank-5_Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR_USERNAME)
 [![CodeChef](https://img.shields.io/badge/CodeChef-4_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/YOUR_USERNAME)
