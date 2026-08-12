@@ -15,9 +15,9 @@
 <br/>
 
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://[linkedin.com/in/your-linkedin](https://www.linkedin.com/in/satendravgupta/)"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://[github.com/YOUR_USERNAME](https://github.com/satendravron)"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/satendravgupta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:satendravron@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/satendravron" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 
 ---
