@@ -152,7 +152,7 @@ Focused on full-stack application development and the integration of machine lea
 <br/>
 
 **Software Engineering Intern** — **CodeSoft**
-📅 *[Month, Year] – [Month, Year]* | Remote
+📅 *[April, 2025] – [May, 2025]* | Remote
 
 Developed software projects focusing on robust algorithmic solutions, optimized logic, and efficient data processing.
 
@@ -165,7 +165,7 @@ Developed software projects focusing on robust algorithmic solutions, optimized 
 <br/>
 
 **Programming Intern** — **Coding Alpha**
-📅 *[Month, Year] – [Month, Year]* | Remote
+📅 *[May, 2025] – [June, 2025]* | Remote
 
 Participated in project-based development focused on applied software engineering and problem-solving.
 
@@ -231,15 +231,6 @@ Participated in project-based development focused on applied software engineerin
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=satendravron&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
