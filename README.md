@@ -19,13 +19,6 @@
 <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://[github.com/YOUR_USERNAME](https://github.com/satendravron)"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6D28D9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=7C3AED&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=A78BFA&label=TOTAL+STARS&logo=github)
-
-</div>
 
 ---
 
