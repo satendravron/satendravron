@@ -165,42 +165,33 @@ Developed full-stack features for an early-stage product, collaborating directly
 
 ---
 
-## 🏆 Achievements
+### 🏆 Achievements & Certifications
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🥇 **Smart India Hackathon — Winner** | National-level hackathon among 10,000+ teams |
-| 🎖️ **Google Summer of Code** | Selected contributor, open-source ML tooling |
-| 🏅 **Top 1% — LeetCode Contest Rating** | Ranked among top competitive programmers globally |
-| 📜 **Published Research Paper** | IEEE conference publication on applied ML systems |
-| 🌟 **Open Source Contributor** | 500+ contributions across major OSS repositories |
+| 🚀 **Hackathon Competitor** | Actively participated and built solutions for **Adobe, GrabHack, AtomQuest, & the L'Oréal Sustainability Challenge**. |
+| 📜 **Google IT Support Certified** | Achieved professional certification covering core computer networking, IT infrastructure, and system administration. |
+| 🏅 **Graphs Camp Scholar** | Completed specialized training focused on advanced graph data structures, algorithms, and optimization techniques. |
+| 🔬 **Applied AI Systems** | Engineered and benchmarked complex systems, including **DeepScope** (biotech) and **BowlForm AI** (sports biomechanics). |
+| 💻 **Algorithm & ML Optimization** | Demonstrated continuous focus on optimizing Data Structures, Algorithms, and implementing advanced ensemble learning models. |
 
 </div>
-
----
 
 ## 📜 Certifications
 
 **AWS**
 
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Certified Developer](https://img.shields.io/badge/AWS_Developer-Associate-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+[![AWS Technical Essentials](https://img.shields.io/badge/AWS-Technical_Essentials-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](./certificates/Amazon_essentials.pdf)
+[![AWS Cloud Practitioner Practice](https://img.shields.io/badge/AWS-Cloud_Practitioner_Practice-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](./certificates/aws_cloud_practitioner.pdf)
 
-**Oracle**
-
-![Oracle Cloud Infrastructure](https://img.shields.io/badge/OCI-Foundations_Associate-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **NPTEL**
 
 ![NPTEL Machine Learning](https://img.shields.io/badge/NPTEL-Machine_Learning-4C1D95?style=flat-square&logo=googlescholar&logoColor=white)
 ![NPTEL Cloud Computing](https://img.shields.io/badge/NPTEL-Cloud_Computing-4C1D95?style=flat-square&logo=googlescholar&logoColor=white)
 
-**Cisco**
-
-![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 ---
 
