@@ -138,32 +138,42 @@ Combines a hybrid dense-sparse retrieval strategy with a re-ranking layer to max
 
 ## 💼 Experience
 
-**Software Engineer** — **Tech Company Inc.**
-📅 *Jan 2024 – Present*
+**AI/ML & Software Engineering Intern** — **MPOnline**
+📅 *May 2025 – Jul 2025* | Remote
 
-Contributing to the design and development of scalable backend services and AI-driven features for a high-traffic SaaS platform.
+Focused on full-stack application development and the integration of machine learning pipelines into production environments.
 
-- Architected and deployed microservices handling millions of requests daily
-- Built ML-powered features improving product recommendation accuracy by 22%
-- Led migration of legacy monolith to containerized microservices architecture
-- Mentored junior engineers and conducted architecture design reviews
+- Designed and deployed full-stack applications by integrating SQL-backed RESTful APIs with robust ML pipelines and ensemble learning models
+- Trained and optimized deep learning models (CV, NLP) using TensorFlow and PyTorch, improving performance through PCA and rigorous hyperparameter tuning
+- Streamlined the SDLC by implementing unit testing, deploying services to cloud infrastructure, and automating CI/CD workflows using n8n
 
-`Python` `Go` `AWS` `Kubernetes` `PyTorch` `System Design`
+`Python` `TensorFlow` `PyTorch` `SQL` `CI/CD` `n8n` `Ensemble Learning`
 
 <br/>
 
-**Software Engineering Intern** — **Startup Labs**
-📅 *May 2023 – Aug 2023*
+**Software Engineering Intern** — **CodeSoft**
+📅 *[Month, Year] – [Month, Year]* | Remote
 
-Developed full-stack features for an early-stage product, collaborating directly with founders on core platform architecture.
+Developed software projects focusing on robust algorithmic solutions, optimized logic, and efficient data processing.
 
-- Built RESTful APIs and React-based dashboards used by 10K+ users
-- Implemented CI/CD pipelines, reducing deployment time by 40%
-- Optimized database queries, improving page load times by 35%
+- Engineered Python-based applications, prioritizing optimized data structures and algorithms for scalable application performance
+- Conducted rigorous performance benchmarking and system testing for core project modules to ensure stability
+- Built and integrated modular components into larger project architectures
 
-`React` `Node.js` `PostgreSQL` `Docker` `CI/CD`
+`Python` `Data Structures` `Algorithms` `System Testing`
 
----
+<br/>
+
+**Programming Intern** — **Coding Alpha**
+📅 *[Month, Year] – [Month, Year]* | Remote
+
+Participated in project-based development focused on applied software engineering and problem-solving.
+
+- Collaborated on technical projects requiring complex algorithmic logic and clean code architecture
+- Built, tested, and debugged foundational software components to ensure reliability 
+- Leveraged core programming principles to deliver functional, high-quality project builds
+
+`Python` `Algorithms` `Software Development` `Benchmarking`
 
 ### 🏆 Achievements & Certifications
 
