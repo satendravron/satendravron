@@ -9,7 +9,7 @@
 <br/>
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-Computer_Science-6D28D9?style=flat-square&logo=studyverse&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-7.91%2F10-7C3AED?style=flat-square&logo=starship&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-7.52%2F10-7C3AED?style=flat-square&logo=starship&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
